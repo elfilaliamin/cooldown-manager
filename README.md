@@ -1,7 +1,7 @@
 # cooldown-manager
 A lightweight, offline-capable task cooldown tracker — create cards for repetitive actions, set hh:mm:ss timers, track daily usage, and get notified when you're ready to go again. Pure HTML/CSS/JS, no dependencies.
 
-Project Link: 
+Project Link: https://elfilaliamin.github.io/cooldown-manager/
 
 Create a single-file **HTML web app** (all HTML, CSS, and JavaScript in one `.html` file) that helps me track cooldown timers for repetitive tasks.
 
