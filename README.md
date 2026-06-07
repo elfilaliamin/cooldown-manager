@@ -3,6 +3,8 @@ A lightweight, offline-capable task cooldown tracker — create cards for repeti
 
 Project Link: https://elfilaliamin.github.io/cooldown-manager/
 
+Prompt:
+
 Create a single-file **HTML web app** (all HTML, CSS, and JavaScript in one `.html` file) that helps me track cooldown timers for repetitive tasks.
 
 ## Main Purpose
